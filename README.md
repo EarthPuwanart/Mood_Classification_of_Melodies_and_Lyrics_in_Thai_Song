@@ -33,3 +33,6 @@ The project utilizes specialized models for both text and audio analysis:
 *   **Audio Processing**: Librosa (Mel Spectrogram, MFCC, Chromagram)
 *   **Web Scraping**: Selenium, BeautifulSoup
 *   **Data Source**: YouTube, LyricFind
+*   
+---
+*Developed as part of a Project at the Data Science Department, Faculty of Science, Silpakorn University.*
